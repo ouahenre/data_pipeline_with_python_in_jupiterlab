@@ -1,4 +1,4 @@
-he ETL process is implemented through three Python functions: 
+The ETL process is implemented through three Python functions: 
 - Extract()
 - Transform()
 - Load()
